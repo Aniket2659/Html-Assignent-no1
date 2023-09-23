@@ -1,0 +1,95 @@
+What are Comments in Html and explain the purpose of comments ? Provide an example of how to use comment in an HTML.
+
+Answer:- In Html(Hyper Text Markup Language) , Comments are the notes which does not displayed on the webpage when browser renders the webage . Comments are intended for the benefits for the  developer and are ignored by the web browser when rendering the webpage.They are used for explaning the code and sometime disabling the part of code temporarily without deleting it.
+Syntax of Html Comments:  <!--  This is a comment  -->
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Write a shortnote on tag and element with example?
+
+Answer:- 
+TAGS:-
+HTML (Hypertext Markup Language) uses a variety of tags to define the structure and content of a web page. HTML tags are enclosed in angle brackets `< >` and come in pairs: an opening tag and a closing tag. Here are some commonly used HTML tags:
+
+1. **<!DOCTYPE>**: This is not a content tag but is essential at the beginning of an HTML document to declare its version and document type.
+
+2. **<html>**: The root element that wraps all content on the web page.
+
+3. **<head>**: Contains meta-information about the document, such as the title and links to external resources like stylesheets and scripts.
+
+4. **<title>**: Sets the title of the web page, which appears in the browser's title bar or tab.
+
+5. **<meta>**: Provides metadata about the document, such as character encoding and author information.
+
+6. **<link>**: Used to link external resources like stylesheets (CSS) to the HTML document.
+
+7. **<script>**: Defines client-side JavaScript code or links to external JavaScript files.
+
+8. **<style>**: Contains internal CSS (Cascading Style Sheets) for styling HTML elements.
+
+9. **<body>**: Contains the visible content of the web page, such as text, images, and other elements.
+
+10. **<header>**: Typically used to define a header section at the top of a webpage, often containing logos, navigation menus, or page titles.
+
+11. **<nav>**: Used to define navigation menus.
+
+12. **<main>**: Represents the main content of the webpage.
+
+13. **<section>**: Divides the content into sections, such as chapters in an article or different parts of a web page.
+
+14. **<article>**: Defines a self-contained piece of content, like a blog post or news article.
+
+15. **<aside>**: Used for content that is tangentially related to the main content, such as sidebars or advertisements.
+
+16. **<footer>**: Contains footer information, often including copyright notices, contact information, or links to related pages.
+
+17. **<p>**: Defines a paragraph of text.
+
+18. **<a>**: Creates hyperlinks, allowing you to link to other web pages or resources.
+
+19. **<img>**: Embeds images in the document.
+
+20. **<ul>**: Creates an unordered (bulleted) list.
+
+21. **<ol>**: Creates an ordered (numbered) list.
+
+22. **<li>**: Represents list items within `<ul>` or `<ol>` elements.
+
+23. **<table>**: Defines a table.
+
+24. **<tr>**: Defines a table row.
+
+25. **<td>**: Represents a table cell.
+
+26. **<form>**: Used to create forms for user input.
+
+27. **<input>**: Defines input fields within a form.
+
+28. **<textarea>**: Creates a multiline text input field within a form.
+
+29. **<button>**: Defines a clickable button within a form.
+
+30. **<div>**: A generic container for grouping and styling content.
+
+These are just some of the most commonly used HTML tags. HTML provides a wide range of tags to structure content and create web pages with various elements and features. The choice of which tags to use depends on the specific requirements of your web page.
+
+ELEMENTS:-An HTML element consists of an opening tag, the content (if any), and a closing tag. It represents a specific type of content or structure on a web page. For example, "<p>This is a paragraph.</p>" is an HTML element. In this case, the <p> tag is the opening tag, "This is a paragraph." is the content, and </p> is the closing tag. The entire construct is considered an HTML element.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+What is DOCTYPE declaration in HTML?
+
+Answer:-
+The Document type Declaration often  abbreviated as <!DOCTYPE>, is an important declaration at the beginning of an HTML document. It specifies the version of HTML being used and provides instructions to the web browser about how to interpret the document.
+
+The <!DOCTYPE> declaration is not an HTML element; rather, it's a special instruction to the browser and is not displayed on the web page. Its primary purpose is to ensure that the browser renders the HTML document in a consistent and standards-compliant manner.
+
+Syntax of Document type declaration is :  "<!DOCTYPE html>"
+
+In the above declaration, html indicates that the document is written in HTML5, the latest version of HTML as of my knowledge cutoff date in September 2021. HTML5 introduced a simplified <!DOCTYPE> declaration that is the same for all HTML5 documents.
+
+Prior to HTML5, different versions of HTML had different <!DOCTYPE> declarations with longer and more complex syntax.
+
+
+
